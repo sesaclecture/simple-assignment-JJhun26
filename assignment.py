@@ -1,6 +1,6 @@
 name = "Alice"
 age = 20
-numbers = [1, 2, 3]
+numbers = [1,2,3]
 is_student = False
 
 print(f"이름: {name}")
